@@ -1,0 +1,19 @@
+import React, { Component } from 'react';
+import Paper from 'material-ui/Paper';
+import Typography from 'material-ui/Typography';
+import './index.css';
+class WeatherContainer extends Component {
+  render() {
+    return (
+      <div className="weather-container">
+        <Paper>
+          <Typography>
+            askdlaksjdkla
+          </Typography>
+        </Paper>
+      </div>
+    );
+  }
+}
+
+export default WeatherContainer;
