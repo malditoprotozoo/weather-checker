@@ -8,6 +8,7 @@ class WeatherContainer extends Component {
     return (
       <div className="weather-container">
         <Paper>
+          <Temperature/>
         </Paper>
       </div>
     );
