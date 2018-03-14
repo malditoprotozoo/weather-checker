@@ -1,3 +1,8 @@
+.weather-container {
+  display: flex;
+  justify-content: center;
+  padding: 5em;
+}
 .MuiPaper-root-12.MuiPaper-elevation2-16.MuiPaper-rounded-13 {
   width: 500px;
 }
